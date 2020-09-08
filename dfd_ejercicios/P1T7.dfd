@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+85
+'P1T7:this app realice a pay point of the paraiso warehouses, make by Mauricio Bravo'
+4
+1
+23
+'input the first price'
+5
+1
+2
+p1
+4
+1
+24
+'input the second price'
+5
+1
+2
+p2
+4
+1
+23
+'input the third price'
+5
+1
+2
+p3
+4
+1
+24
+'input the fourth price'
+5
+1
+2
+p4
+6
+3
+3
+sum
+11
+p1+p2+p3+p4
+3
+IVA
+8
+sum*0.19
+5
+total
+7
+sum+IVA
+4
+1
+60
+'the summatory is:$',sum,'IVA19%:$',IVA,'total bill:$',total
+1
