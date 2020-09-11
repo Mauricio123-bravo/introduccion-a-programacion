@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+78
+'P1T10 semester grades, made by Mauricio Bravo, input the grades: n1,n2,n3,n4'
+5
+1
+11
+n1,n2,n3,n4
+6
+1
+5
+total
+39
+(n1*0.20)+(n2*0.25)+(n3*0.25)+(n4*0.30)
+4
+1
+23
+'semester grades',total
+1

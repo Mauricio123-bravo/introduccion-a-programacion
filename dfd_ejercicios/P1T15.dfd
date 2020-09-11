@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'P1T15 know which number is largest,made by Mauricio Bravo'
+4
+1
+18
+'input the number'
+5
+1
+5
+a,b,c
+7
+0
+1
+11
+a=b and b=c
+7
+0
+1
+5
+a > b
+7
+0
+1
+5
+b > c
+4
+1
+19
+'the largest is', c
+13
+4
+1
+19
+'the largest is', b
+13
+13
+7
+0
+1
+5
+a > c
+4
+1
+19
+'the largest is', c
+13
+4
+1
+19
+'the largest is', a
+13
+13
+13
+4
+1
+21
+'the number are same'
+13
+1

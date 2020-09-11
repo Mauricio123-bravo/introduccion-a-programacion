@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'P1T12 age of a people, made by Mauricio Bravo, input the age'
+5
+1
+3
+age
+7
+0
+1
+8
+age >= 1
+4
+1
+30
+'ERROR, the age should be >=1'
+13
+7
+0
+1
+7
+age < 6
+7
+0
+1
+8
+age < 18
+7
+0
+1
+8
+age < 45
+7
+0
+1
+8
+age < 90
+7
+0
+1
+9
+age >= 90
+13
+4
+1
+11
+'matusalen'
+13
+13
+4
+1
+13
+'older adult'
+13
+13
+4
+1
+7
+'adult'
+13
+13
+4
+1
+12
+'adolescent'
+13
+13
+4
+1
+7
+'child'
+13
+13
+1

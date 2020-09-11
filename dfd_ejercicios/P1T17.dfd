@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'P1T17 the salary of an employee, made by Mauricio Bravo'
+4
+1
+31
+'input the value of the salary'
+5
+1
+1
+s
+4
+1
+27
+'input the number of days '
+5
+1
+1
+d
+7
+0
+1
+11
+d<1 or d>30
+6
+1
+6
+salary
+8
+(s/30)*d
+4
+1
+26
+'your salary is $', salary
+13
+4
+1
+37
+'ERROR, the days are not < 1 or > 30'
+13
+1

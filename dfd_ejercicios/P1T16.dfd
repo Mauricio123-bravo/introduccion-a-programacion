@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'P1T16 calendar, made by Mauricio Bravo, input the month number'
+5
+1
+1
+m
+7
+0
+1
+11
+m<1 or m>12
+7
+0
+1
+4
+m=2 
+7
+0
+1
+25
+m=4 or m=6 or m=9 or m=11
+4
+1
+24
+'this month has 31 days'
+13
+4
+1
+24
+'this month has 30 days'
+13
+13
+4
+1
+24
+'this month has 28 days'
+13
+13
+4
+1
+33
+'ERROR,this month does not exist'
+13
+1

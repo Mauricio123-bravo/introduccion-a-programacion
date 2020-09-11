@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+97
+'P1T13, calculate the volume of a cylinder knowing the radius and height, made by Mauricio Bravo'
+4
+1
+18
+'input the radius'
+5
+1
+1
+r
+4
+1
+18
+'input the height'
+5
+1
+1
+h
+6
+1
+6
+volume
+18
+(3.1416)*(r*r)*(h)
+4
+1
+33
+'the volume of a cylinder',volume
+1
