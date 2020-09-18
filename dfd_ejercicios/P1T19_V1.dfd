@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'P1T19 total sum+average for 4 number,made by Mauricio Bravo'
+5
+1
+11
+n1,n2,n3,n4
+6
+2
+3
+sum
+11
+n1+n2+n3+n4
+7
+average
+5
+sum/4
+4
+1
+47
+'the summatory is',sum,'the average is',average
+1

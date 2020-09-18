@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'P1T30 password,made by Mauricio Bravo'
+6
+2
+7
+INTENTO
+1
+1
+6
+VALIDO
+1
+0
+9
+1
+22
+INTENTO<4 AND VALIDO=0
+4
+1
+20
+'input the password'
+5
+1
+1
+P
+6
+1
+7
+INTENTO
+9
+INTENTO+1
+7
+0
+1
+23
+P=352 OR P=259 OR P=569
+4
+1
+32
+'ERROOOOOOR, PASSWORD INCORRECT'
+13
+6
+1
+6
+VALIDO
+1
+1
+13
+11
+7
+0
+1
+8
+VALIDO=1
+4
+1
+92
+'ERROOOOOOR, you exceeded the maximum number of attempts your user is blocked for 5 minutes'
+13
+4
+1
+23
+'welcome to the system'
+13
+1
