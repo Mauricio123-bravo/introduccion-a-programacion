@@ -1,0 +1,99 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+153
+'P1T32 colombia regions, made by Mauricio Bravo, choose a number for see the region:
+1.Amazonia
+2.Andina
+3.Caribe
+4.Insular
+5.Orinoquia
+6.Pacifico'
+5
+1
+3
+REG
+9
+1
+17
+REG>=1 AND REG<=6
+7
+0
+1
+5
+REG=1
+7
+0
+1
+5
+REG=2
+7
+0
+1
+5
+REG=3
+7
+0
+1
+5
+REG=4
+7
+0
+1
+5
+REG=5
+4
+1
+310
+'It is located in the western fringe of the country, limiting to the north with Panama, to the northeast with the Caribbean region, to the east with the Western mountain range that separates it from the Andean region, to the south with Ecuador and to the west with the Pacific Ocean, from where takes his name'
+13
+4
+1
+247
+'It is located in the east of the country, bordering on the north and east with Venezuela, on the south with Amazonia and on the west with the Andean region. Determined by the Orinoco river basin, it is an ecosystem characterized by being a plain'
+13
+13
+4
+1
+217
+'of Colombia is the set of islands, keys and islets far from the continental coasts, such as the Archipelago of San Andrés and Providencia in the Caribbean Sea and the Malpelo and Gorgona islands in the Pacific Ocean'
+13
+13
+4
+1
+220
+'It is located in the north of Colombia. It borders to the north with the Caribbean Sea, to which it owes its name, to the East with Venezuela, to the south with the Andean region and to the West with the Pacific region'
+13
+13
+4
+1
+230
+'It is located in the center of the country, bordering the Caribbean region to the north, Venezuela to the northeast, the Orinoquía to the east, the Amazon to the southeast, Ecuador to the south and the Pacific region to the west'
+13
+13
+4
+1
+196
+'It is located in the south of the country, bordering the Andean and Orinoquía regions to the north, Venezuela to the east, Brazil to the southeast, Peru to the south and Ecuador to the southwest'
+13
+4
+1
+129
+'P1T32 colombia regions, choose a number for see the region:
+1.Amazonia
+2.Andina
+3.Caribe
+4.Insular
+5.Orinoquia
+6.Pacifico'
+5
+1
+3
+REG
+11
+1
