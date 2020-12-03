@@ -1,9 +1,6 @@
 //AUTORES: Mauricio Bravo Y ESteban Gaona
 //DESCRIPCION: este es el proyecto final sobre un software de facturacion
 //DATE: 29-11-20
-//AUTORES: Mauricio Bravo Y ESteban Gaona
-//DESCRIPCION: este es el proyecto final sobre un software de facturacion
-//DATE: 29-11-20
 
 import javax.swing.*;
 import java.awt.*;
@@ -19,7 +16,7 @@ public class formulario_inicio extends JFrame {
         l_version.setBounds(30, 220, 250, 30);
         boton_inicio = new JButton("empezar");
         boton_inicio.setBounds(150, 150, 170, 40);
-        boton_inicio.addActionListener(new boton_click());
+        // boton_inicio.addActionListener(new boton_click());
 
         add(l_Titulo);
         add(l_version);
@@ -38,7 +35,7 @@ public class formulario_inicio extends JFrame {
 class boton_click implements ActionListener {
 
     public void actionperformed(ActionEvent a) {
-        formulario_inicio form_formulario_inicio = new formulario_inicio();
+        formulario_principal form_formulario_principal = new formulario_principal();
 
     }
 
